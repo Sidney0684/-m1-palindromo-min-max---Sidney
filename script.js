@@ -27,4 +27,4 @@ function arrayMaxMin(array) {
   return [min, max];
 }
 
-console.log(arrayMaxMin[3, 5, 6, 2, 1, 4];
+console.log(arrayMaxMin[3, 5, 6, 2, 1, 4]);
